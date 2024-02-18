@@ -1,11 +1,11 @@
 # jupyterlab_WeatherWidget
- This simply creates an extension, a widget, that then takes a user's zipzode and outputs some basic weather data. Very simple no real styling.
-
+ This simply creates an extension, a widget, that then takes a user's zipcode and outputs some basic weather data. Very simple no real styling or error handling.
  
-1eb07a40c18722755c20e31cfcddd039.png
-26a761f81b173bf779aa36f9332e5e40.png
-082152405642d0fd61264ddeb5b1e36e.png
-871fb38b451b40636acae6601b38bdab.png
+![image](https://github.com/Ricardo96MC/jupyterlab_topLogo/assets/22580284/b1b635db-f439-434c-a950-0033e8492d14)
+![image](https://github.com/Ricardo96MC/jupyterlab_topLogo/assets/22580284/9b8681bc-7e88-4548-a2fd-834bf12f35c8)
+![image](https://github.com/Ricardo96MC/jupyterlab_topLogo/assets/22580284/0a3d7d48-96dd-40df-8683-ab3ea4cdb928)
+![image](https://github.com/Ricardo96MC/jupyterlab_topLogo/assets/22580284/f0982d26-49c9-4c39-aa65-54904cea7690)
+
 
 [![Github Actions Status](https://github.com/github_username/jupyterlab-topLogo/workflows/Build/badge.svg)](https://github.com/github_username/jupyterlab-topLogo/actions/workflows/build.yml)[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/github_username/jupyterlab-topLogo/main?urlpath=lab)
 Creating an extension for familiarity and practice
