@@ -1,4 +1,11 @@
-# jupyterlab_topLogo
+# jupyterlab_WeatherWidget
+ This simply creates an extension, a widget, that then takes a user's zipzode and outputs some basic weather data. Very simple no real styling.
+
+ 
+1eb07a40c18722755c20e31cfcddd039.png
+26a761f81b173bf779aa36f9332e5e40.png
+082152405642d0fd61264ddeb5b1e36e.png
+871fb38b451b40636acae6601b38bdab.png
 
 [![Github Actions Status](https://github.com/github_username/jupyterlab-topLogo/workflows/Build/badge.svg)](https://github.com/github_username/jupyterlab-topLogo/actions/workflows/build.yml)[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/github_username/jupyterlab-topLogo/main?urlpath=lab)
 Creating an extension for familiarity and practice
